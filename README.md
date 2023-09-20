@@ -1,1 +1,1 @@
-https://gleeful-cassata-eccb4d.netlify.app/home
+https://650b3641dd72782ab911f884--aquamarine-starship-564db3.netlify.app/home
