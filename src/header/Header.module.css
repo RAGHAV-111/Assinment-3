@@ -1,0 +1,35 @@
+.header {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  background-color: rgba(115, 255, 0, 0.425);
+  border-bottom: 3px solid #05a84971;
+
+  padding: 0px 10px 0px 0px;
+  margin: 0px 0px 50px 0px;
+  justify-content: space-around;
+  column-gap: 20%;
+}
+.header img{
+  text-align: left;
+  height: 70px;
+  width: 70px;
+  display: flex;
+  margin: 0px 0px 0px 30px ;
+  padding: 0px 0px 0px 0px;
+  border-radius: 100%;
+}
+
+.header li {
+  list-style: none;
+  display: inline-block;
+}
+
+.header a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  margin: 0 80px 0 0;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
